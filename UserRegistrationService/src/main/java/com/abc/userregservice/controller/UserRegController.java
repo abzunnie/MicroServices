@@ -15,7 +15,7 @@ public class UserRegController {
 	
 	@GetMapping("/")
 	public String sayHello(){
-		return "All is well"+env.getProperty("local.server.port");
+		return " All is well "+env.getProperty("local.server.port");
 		
 	}
 
