@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aop-reference-model>
 <aop-project name="ABCDiscoveryServer"/>
+<aop-project name="PhotoAppApiUsers-newBranch"/>
 <aop-project name="SellService"/>
 <aop-project name="UserRegistrationService"/>
+<aop-project name="ProductService"/>
 <aop-project name="APIGateway-LB"/>
+<aop-project name="OrderService"/>
 </aop-reference-model>

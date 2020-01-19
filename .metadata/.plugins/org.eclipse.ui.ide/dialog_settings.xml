@@ -111,4 +111,6 @@
 		<item value="org.springsource.sts.package:3.9.4.201804120943-RELEASE-e46"/>
 		<item value="org.springsource.sts:3.9.4.201804120943-RELEASE"/>
 	</list>
+	<section name="ExternalProjectImportWizard">
+	</section>
 </section>

@@ -5,6 +5,7 @@ org.springframework.ide.eclipse.boot.wizard.PopularityTracker.cloud-zuul=1
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.data-jpa=2
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.devtools=2
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.h2=2
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.security=2
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=2
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web-services=2
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=APIGateway-LB
